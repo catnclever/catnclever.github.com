@@ -39,7 +39,7 @@ Ebenfalls haben die Nutzer und Betroffenen nach Art. 21 DSGVO das Recht auf Wide
 
 Ihre bei Nutzung unserer Mobile App verarbeiteten Daten werden gelöscht oder gesperrt, sobald der Zweck der Speicherung entfällt, der Löschung der Daten keine gesetzlichen Aufbewahrungspflichten entgegenstehen und nachfolgend keine anderslautenden Angaben zu einzelnen Verarbeitungsverfahren gemacht werden.
 
-## Kundenkonto / Registrierungsfunktion
+### Kundenkonto / Registrierungsfunktion
 
 Falls Sie über unserer Mobile App ein Kundenkonto bei uns anlegen, werden wir die von Ihnen bei der Registrierung eingegebenen Daten (also Namen und Monat/Jahr der Geburt) ausschließlich zum Zwecke der Kundenpflege (bspw. um den Lernfortschritt zu messen) erheben und speichern. Gleichzeitig speichern wir dann die IP-Adresse und das Datum Ihrer Registrierung nebst Uhrzeit. Eine Weitergabe dieser Daten an Dritte erfolgt natürlich nicht.
 
