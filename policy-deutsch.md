@@ -53,4 +53,14 @@ Die uns erteilte Einwilligung in die Eröffnung und den Unterhalt des Kundenkont
 
 Die insoweit erhobenen Daten werden gelöscht, sobald die Verarbeitung nicht mehr erforderlich ist. Hierbei müssen wir aber steuer- und handelsrechtliche Aufbewahrungsfristen beachten.
 
-<a target="_blank" href="https://www.ratgeberrecht.eu/leistungen/muster-datenschutzerklaerung.html">Muster-Datenschutzerklärung</a> der <a target="_blank" href="https://www.ratgeberrecht.eu/datenschutz/datenschutzerklaerung-generator-dsgvo.html">Anwaltskanzlei Weiß &amp; Partner</a>
+# Newsletter
+
+Wenn Sie sich für unseren Newsletter mit Ihrer E-Mail-Adresse angemeldet haben, speichern und nutzen wir Ihre E-Mail-Adresse für die Übersendung unseres Newsletters mit Informationen und Werbung über uns, bis Sie sich von unserem Newsletter abgemeldet haben.
+
+Für unseren Newsletter-Service nutzen wir den Newsletter-Dienst «Mailchimp» der Rocket Sience Group LLC, 675 Ponce de Leon Ave NE, Suite 5000 Atlanta, GA 30308.
+
+Wenn Sie Ihre E-Mail-Adresse für den Erhalt des Newsletters eintragen, wird diese zunächst bei MailChimp für den Zweck gespeichert, dem Inhaber eine E-Mail zuzusenden, in der er/sie die Anmeldung zu dem Newsletterversand bestätigen kann («Double-Opt-In»). Nach einer solchen Bestätigung wird die E-Mail-Adresse dauerhaft beim MailChimp gespeichert, bis sie sich von dem Newsletterempfang abgemeldet haben oder sie von uns gelöscht wird. MailChimp speichert das Datum der Anmeldung sowie die IP-Adresse, unter der die Anmeldung erfolgt ist. Eine weiterführende Nutzung ihrer IP-Adresse erfolgt nicht.
+
+Wir weisen darauf hin, dass die Daten, die über MailChimp erhoben und genutzt werden, auf Rechnern in den USA gespeichert und verarbeitet werden. Mit Ihrer Einwilligung in den Empfang unseres Newsletters erklären Sie sich hiermit einverstanden. Darüber hinaus haben wir einen Datenverarbeitungsvertrag mit MailChimp auf Basis der sog. EU-Standardvertragsklauseln geschlossen. Eine sonstige Weitergabe Ihrer E-Mail-Adresse an Dritte erfolgt nicht.
+
+Sie können sich jederzeit von unserem Newsletter abmelden. In jeder E-Mail mit unserem Newsletter ist ein Abmeldelink enthalten. Sie können auch jederzeit Ihre Einwilligung in die Nutzung ihrer E-Mail-Adresse für die Zukunft uns gegenüber widerrufen. Nutzen Sie hierzu bitte die unten angegeben Kontaktmöglichkeiten.
