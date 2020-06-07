@@ -53,7 +53,7 @@ Die uns erteilte Einwilligung in die Eröffnung und den Unterhalt des Kundenkont
 
 Die insoweit erhobenen Daten werden gelöscht, sobald die Verarbeitung nicht mehr erforderlich ist. Hierbei müssen wir aber steuer- und handelsrechtliche Aufbewahrungsfristen beachten.
 
-# Newsletter
+### Newsletter
 
 Wenn Sie sich für unseren Newsletter mit Ihrer E-Mail-Adresse angemeldet haben, speichern und nutzen wir Ihre E-Mail-Adresse für die Übersendung unseres Newsletters mit Informationen und Werbung über uns, bis Sie sich von unserem Newsletter abgemeldet haben.
 
