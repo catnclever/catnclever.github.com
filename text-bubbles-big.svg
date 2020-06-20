@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1569 733" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-367.074,-190.795)">
+        <g transform="matrix(1.28581,0,0,1.28581,816.323,39.4353)">
+            <g transform="matrix(0.717989,0,0,0.722658,-335.485,186.219)">
+                <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(237,214,46);"/>
+            </g>
+            <g transform="matrix(0.777719,0,0,0.777719,117.715,152.114)">
+                <text x="564.812px" y="295.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(119,147,0);">Täglich</text>
+                <text x="516.362px" y="377.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(119,147,0);">eine neue</text>
+                <text x="479.612px" y="460.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(119,147,0);">einstündige</text>
+                <text x="599.424px" y="542.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(119,147,0);">Folge</text>
+            </g>
+        </g>
+        <g transform="matrix(1.12619,0,0,1.12619,-49.823,-23.8759)">
+            <g transform="matrix(0.997572,0,0,0.984603,-704.62,101.482)">
+                <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(135,115,204);"/>
+            </g>
+            <g transform="matrix(0.887952,0,0,0.887952,45.7009,49.6523)">
+                <text x="490.895px" y="339.836px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">Fokus auf die</text>
+                <text x="551.029px" y="406.502px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">kognitive,</text>
+                <text x="515.362px" y="473.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">körperliche,</text>
+                <text x="411.496px" y="539.836px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">emphatische und</text>
+                <text x="594.128px" y="606.502px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">soziale</text>
+                <text x="509.995px" y="673.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">Entwicklung</text>
+            </g>
+        </g>
+    </g>
+</svg>
