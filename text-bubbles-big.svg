@@ -1,144 +1,146 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 2253 2604" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <g transform="matrix(1.28581,0,0,1.28581,202.457,158.311)">
-        <g transform="matrix(0.717989,0,0,0.722658,-335.485,186.219)">
-            <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(237,214,46);"/>
+<svg width="100%" height="100%" viewBox="0 0 2428 2573" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-71.1406,-31.5715)">
+        <g transform="matrix(1.28581,0,0,1.28581,202.457,158.311)">
+            <g transform="matrix(0.717989,0,0,0.722658,-335.485,186.219)">
+                <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(237,214,46);"/>
+            </g>
+            <g transform="matrix(0.777719,0,0,0.777719,114.403,164.751)">
+                <text x="564.812px" y="295.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(119,147,0);">Täglich</text>
+                <text x="516.362px" y="377.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(119,147,0);">eine neue</text>
+                <text x="479.612px" y="460.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(119,147,0);">einstündige</text>
+                <text x="599.424px" y="542.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(119,147,0);">Folge</text>
+            </g>
         </g>
-        <g transform="matrix(0.777719,0,0,0.777719,114.403,164.751)">
-            <text x="564.812px" y="295.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(119,147,0);">Täglich</text>
-            <text x="516.362px" y="377.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(119,147,0);">eine neue</text>
-            <text x="479.612px" y="460.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(119,147,0);">einstündige</text>
-            <text x="599.424px" y="542.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(119,147,0);">Folge</text>
+        <g transform="matrix(1.85711,0,0,1.85711,-648.395,457.391)">
+            <g transform="matrix(0.717989,0,0,0.722658,-335.485,186.219)">
+                <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(70,123,164);"/>
+            </g>
+            <g transform="matrix(0.538472,0,0,0.538472,242.258,215.003)">
+                <text x="567.922px" y="295.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(255,243,231);">Inhaltlicher</text>
+                <text x="461.347px" y="377.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(255,243,231);">Schwerpunkt auf</text>
+                <text x="435.472px" y="460.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(255,243,231);">relevante Themen</text>
+                <text x="448.185px" y="542.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(255,243,231);">wie umwelt- oder</text>
+                <text x="523.41px" y="625.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(255,243,231);">interkulturelle</text>
+                <text x="627.322px" y="707.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(255,243,231);">Aspekte</text>
+            </g>
         </g>
-    </g>
-    <g transform="matrix(1.85711,0,0,1.85711,-648.395,457.391)">
-        <g transform="matrix(0.717989,0,0,0.722658,-335.485,186.219)">
-            <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(70,123,164);"/>
+        <g transform="matrix(1.28581,0,0,1.28581,891.262,411.385)">
+            <g transform="matrix(0.649872,0,0,0.654098,-221.055,233.733)">
+                <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(164,178,90);"/>
+            </g>
+            <g transform="matrix(0.777719,0,0,0.777719,160.203,218.856)">
+                <text x="511.112px" y="300.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:white;">Moderne,</text>
+                <text x="444.545px" y="374.002px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:white;">kindgerechte</text>
+                <text x="534.279px" y="447.336px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:white;">Ästhetik</text>
+            </g>
         </g>
-        <g transform="matrix(0.538472,0,0,0.538472,242.258,215.003)">
-            <text x="567.922px" y="295.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(255,243,231);">Inhaltlicher</text>
-            <text x="461.347px" y="377.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(255,243,231);">Schwerpunkt auf</text>
-            <text x="435.472px" y="460.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(255,243,231);">relevante Themen</text>
-            <text x="448.185px" y="542.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(255,243,231);">wie umwelt- oder</text>
-            <text x="523.41px" y="625.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(255,243,231);">interkulturelle</text>
-            <text x="627.322px" y="707.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(255,243,231);">Aspekte</text>
+        <g transform="matrix(1.28581,0,0,1.28581,267.257,1676.28)">
+            <g transform="matrix(0.801665,0,0,0.806877,-431.642,162.059)">
+                <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(135,115,204);"/>
+            </g>
+            <g transform="matrix(0.777719,0,0,0.777719,160.203,218.856)">
+                <text x="486.329px" y="310.502px" style="font-family:'Poppins-Regular', 'Poppins';font-size:83.333px;fill:rgb(237,214,46);">Einfache</text>
+                <text x="441.87px" y="402.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:83.333px;fill:rgb(237,214,46);">Bedienung</text>
+            </g>
         </g>
-    </g>
-    <g transform="matrix(1.28581,0,0,1.28581,891.262,411.385)">
-        <g transform="matrix(0.649872,0,0,0.654098,-221.055,233.733)">
-            <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(164,178,90);"/>
+        <g transform="matrix(1.28581,0,0,1.28581,-494.3,1538.4)">
+            <g transform="matrix(0.710514,0,0,0.691862,-304.683,212.327)">
+                <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(246,165,110);"/>
+            </g>
+            <g transform="matrix(0.777719,0,0,0.777719,153.165,160.563)">
+                <text x="640.789px" y="295.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(209,55,18);">KI</text>
+                <text x="503.276px" y="377.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(209,55,18);">basierter</text>
+                <text x="438.026px" y="460.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(209,55,18);">persönlicher</text>
+                <text x="509.951px" y="542.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(209,55,18);">Lernplan</text>
+            </g>
         </g>
-        <g transform="matrix(0.777719,0,0,0.777719,160.203,218.856)">
-            <text x="511.112px" y="300.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:white;">Moderne,</text>
-            <text x="444.545px" y="374.002px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:white;">kindgerechte</text>
-            <text x="534.279px" y="447.336px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:white;">Ästhetik</text>
+        <g transform="matrix(1.28581,0,0,1.28581,1099.6,1217.73)">
+            <g transform="matrix(0.835272,0,0,0.840703,-506.799,254.298)">
+                <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(236,215,46);"/>
+            </g>
+            <g transform="matrix(0.777719,0,0,0.777719,111.069,261.065)">
+                <text x="568.289px" y="295.169px" style="font-family:'Poppins-Bold', 'Poppins';font-weight:700;font-size:75px;fill:rgb(209,55,18);">Eigens</text>
+                <text x="443.939px" y="377.669px" style="font-family:'Poppins-Bold', 'Poppins';font-weight:700;font-size:75px;fill:rgb(209,55,18);">komponierte</text>
+                <text x="427.139px" y="460.169px" style="font-family:'Poppins-Bold', 'Poppins';font-weight:700;font-size:75px;fill:rgb(209,55,18);">Musik für jede</text>
+                <text x="590.039px" y="542.669px" style="font-family:'Poppins-Bold', 'Poppins';font-weight:700;font-size:75px;fill:rgb(209,55,18);">Folge</text>
+            </g>
         </g>
-    </g>
-    <g transform="matrix(1.28581,0,0,1.28581,267.257,1676.28)">
-        <g transform="matrix(0.801665,0,0,0.806877,-431.642,162.059)">
-            <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(135,115,204);"/>
+        <g transform="matrix(1.28581,0,0,1.28581,521.93,913.231)">
+            <g transform="matrix(0.625531,0,0,0.629598,-194.829,250.712)">
+                <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(199,225,235);"/>
+            </g>
+            <g transform="matrix(0.777719,0,0,0.777719,158.786,275.604)">
+                <text x="475.779px" y="295.169px" style="font-family:'Poppins-Bold', 'Poppins';font-weight:700;font-size:75px;fill:rgb(135,115,204);">Interaktiv</text>
+            </g>
         </g>
-        <g transform="matrix(0.777719,0,0,0.777719,160.203,218.856)">
-            <text x="486.329px" y="310.502px" style="font-family:'Poppins-Regular', 'Poppins';font-size:83.333px;fill:rgb(237,214,46);">Einfache</text>
-            <text x="441.87px" y="402.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:83.333px;fill:rgb(237,214,46);">Bedienung</text>
+        <g transform="matrix(1.50416,0,0,1.50416,800.27,-318.893)">
+            <g transform="matrix(0.772377,0,0,0.777399,-414.185,162.62)">
+                <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(209,55,18);"/>
+            </g>
+            <g transform="matrix(0.664825,0,0,0.664825,162.104,169.857)">
+                <text x="478.353px" y="377.669px" style="font-family:'Poppins-Bold', 'Poppins';font-weight:700;font-size:75px;fill:rgb(255,192,0);">Elternansicht</text>
+                <text x="412.053px" y="460.169px" style="font-family:'Poppins-Bold', 'Poppins';font-weight:700;font-size:75px;fill:rgb(255,192,0);">mit Statistik zum</text>
+                <text x="456.341px" y="542.669px" style="font-family:'Poppins-Bold', 'Poppins';font-weight:700;font-size:75px;fill:rgb(255,192,0);">Lernfortschritt</text>
+            </g>
         </g>
-    </g>
-    <g transform="matrix(1.28581,0,0,1.28581,-494.3,1538.4)">
-        <g transform="matrix(0.710514,0,0,0.691862,-304.683,212.327)">
-            <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(246,165,110);"/>
+        <g transform="matrix(1.12619,0,0,1.12619,-345.756,-46.3781)">
+            <g transform="matrix(0.997572,0,0,0.984603,-704.62,101.482)">
+                <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(135,115,204);"/>
+            </g>
+            <g transform="matrix(0.887952,0,0,0.887952,45.7009,49.6523)">
+                <text x="490.895px" y="339.836px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">Fokus auf die</text>
+                <text x="551.029px" y="406.502px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">kognitive,</text>
+                <text x="515.362px" y="473.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">körperliche,</text>
+                <text x="411.496px" y="539.836px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">emphatische und</text>
+                <text x="594.128px" y="606.502px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">soziale</text>
+                <text x="509.995px" y="673.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">Entwicklung</text>
+            </g>
         </g>
-        <g transform="matrix(0.777719,0,0,0.777719,153.165,160.563)">
-            <text x="640.789px" y="295.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(209,55,18);">KI</text>
-            <text x="503.276px" y="377.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(209,55,18);">basierter</text>
-            <text x="438.026px" y="460.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(209,55,18);">persönlicher</text>
-            <text x="509.951px" y="542.669px" style="font-family:'Poppins-Regular', 'Poppins';font-size:75px;fill:rgb(209,55,18);">Lernplan</text>
+        <g transform="matrix(0.76796,0.163479,-0.20821,0.978084,-642.661,-1340.75)">
+            <g transform="matrix(1.2457,-0.20821,0.265179,0.978084,1253.1,1193.63)">
+                <use xlink:href="#_Image1" x="785.029" y="346.927" width="588.661px" height="253.078px" transform="matrix(0.999425,0,0,0.996369,0,0)"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-23.2783,-222.173)">
+                <rect x="2366.03" y="1577.41" width="726.998" height="134.882" style="fill:white;fill-opacity:0.8;stroke:white;stroke-width:1.11px;"/>
+            </g>
+            <g transform="matrix(1.27361,0,0,1,-556.71,431.897)">
+                <text x="2336.58px" y="1018.88px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:79.167px;fill:rgb(209,55,18);">Demnächst!</text>
+            </g>
         </g>
-    </g>
-    <g transform="matrix(1.28581,0,0,1.28581,1099.6,1217.73)">
-        <g transform="matrix(0.835272,0,0,0.840703,-506.799,254.298)">
-            <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(236,215,46);"/>
+        <g transform="matrix(0.76796,0.163479,-0.20821,0.978084,411.944,-130.301)">
+            <g transform="matrix(1.2457,-0.20821,0.265179,0.978084,-381.615,229.284)">
+                <use xlink:href="#_Image1" x="1840.24" y="1561.79" width="588.661px" height="253.078px" transform="matrix(0.999425,0,0,0.996369,0,0)"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-23.2783,-222.173)">
+                <rect x="2366.03" y="1577.41" width="726.998" height="134.882" style="fill:white;fill-opacity:0.8;stroke:white;stroke-width:1.11px;"/>
+            </g>
+            <g transform="matrix(1.27361,0,0,1,-556.71,431.897)">
+                <text x="2336.58px" y="1018.88px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:79.167px;fill:rgb(209,55,18);">Demnächst!</text>
+            </g>
         </g>
-        <g transform="matrix(0.777719,0,0,0.777719,111.069,261.065)">
-            <text x="568.289px" y="295.169px" style="font-family:'Poppins-Bold', 'Poppins';font-weight:700;font-size:75px;fill:rgb(209,55,18);">Eigens</text>
-            <text x="443.939px" y="377.669px" style="font-family:'Poppins-Bold', 'Poppins';font-weight:700;font-size:75px;fill:rgb(209,55,18);">komponierte</text>
-            <text x="427.139px" y="460.169px" style="font-family:'Poppins-Bold', 'Poppins';font-weight:700;font-size:75px;fill:rgb(209,55,18);">Musik für jede</text>
-            <text x="590.039px" y="542.669px" style="font-family:'Poppins-Bold', 'Poppins';font-weight:700;font-size:75px;fill:rgb(209,55,18);">Folge</text>
+        <g transform="matrix(0.76796,0.163479,-0.20821,0.978084,201.497,-1654.27)">
+            <g transform="matrix(1.2457,-0.20821,0.265179,0.978084,284.663,1676.04)">
+                <use xlink:href="#_Image1" x="1629.67" y="32.267" width="588.661px" height="253.078px" transform="matrix(0.999425,0,0,0.996369,0,0)"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-23.2783,-222.173)">
+                <rect x="2366.03" y="1577.41" width="726.998" height="134.882" style="fill:white;fill-opacity:0.8;stroke:white;stroke-width:1.11px;"/>
+            </g>
+            <g transform="matrix(1.27361,0,0,1,-556.71,431.897)">
+                <text x="2336.58px" y="1018.88px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:79.167px;fill:rgb(209,55,18);">Demnächst!</text>
+            </g>
         </g>
-    </g>
-    <g transform="matrix(1.28581,0,0,1.28581,521.93,913.231)">
-        <g transform="matrix(0.625531,0,0,0.629598,-194.829,250.712)">
-            <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(199,225,235);"/>
-        </g>
-        <g transform="matrix(0.777719,0,0,0.777719,158.786,275.604)">
-            <text x="475.779px" y="295.169px" style="font-family:'Poppins-Bold', 'Poppins';font-weight:700;font-size:75px;fill:rgb(135,115,204);">Interaktiv</text>
-        </g>
-    </g>
-    <g transform="matrix(1.50416,0,0,1.50416,800.27,-318.893)">
-        <g transform="matrix(0.772377,0,0,0.777399,-414.185,162.62)">
-            <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(209,55,18);"/>
-        </g>
-        <g transform="matrix(0.664825,0,0,0.664825,162.104,169.857)">
-            <text x="478.353px" y="377.669px" style="font-family:'Poppins-Bold', 'Poppins';font-weight:700;font-size:75px;fill:rgb(255,192,0);">Elternansicht</text>
-            <text x="412.053px" y="460.169px" style="font-family:'Poppins-Bold', 'Poppins';font-weight:700;font-size:75px;fill:rgb(255,192,0);">mit Statistik zum</text>
-            <text x="456.341px" y="542.669px" style="font-family:'Poppins-Bold', 'Poppins';font-weight:700;font-size:75px;fill:rgb(255,192,0);">Lernfortschritt</text>
-        </g>
-    </g>
-    <g transform="matrix(1.12619,0,0,1.12619,-345.756,-46.3781)">
-        <g transform="matrix(0.997572,0,0,0.984603,-704.62,101.482)">
-            <circle cx="1378.67" cy="391.775" r="301.246" style="fill:rgb(135,115,204);"/>
-        </g>
-        <g transform="matrix(0.887952,0,0,0.887952,45.7009,49.6523)">
-            <text x="490.895px" y="339.836px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">Fokus auf die</text>
-            <text x="551.029px" y="406.502px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">kognitive,</text>
-            <text x="515.362px" y="473.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">körperliche,</text>
-            <text x="411.496px" y="539.836px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">emphatische und</text>
-            <text x="594.128px" y="606.502px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">soziale</text>
-            <text x="509.995px" y="673.169px" style="font-family:'Poppins-Regular', 'Poppins';font-size:66.667px;fill:rgb(193,225,252);">Entwicklung</text>
-        </g>
-    </g>
-    <g transform="matrix(0.76796,0.163479,-0.20821,0.978084,-642.661,-1340.75)">
-        <g transform="matrix(1.2457,-0.20821,0.265179,0.978084,1156.1,1177.56)">
-            <use xlink:href="#_Image1" x="856.211" y="378.613" width="588.661px" height="253.078px" transform="matrix(0.999425,0,0,0.996369,0,0)"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-23.2783,-222.173)">
-            <rect x="2366.03" y="1577.41" width="726.998" height="134.882" style="fill:white;fill-opacity:0.8;stroke:white;stroke-width:1.11px;"/>
-        </g>
-        <g transform="matrix(1.27361,0,0,1,-556.71,431.897)">
-            <text x="2336.58px" y="1018.88px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:79.167px;fill:rgb(209,55,18);">Demnächst!</text>
-        </g>
-    </g>
-    <g transform="matrix(0.76796,0.163479,-0.20821,0.978084,411.944,-130.301)">
-        <g transform="matrix(1.2457,-0.20821,0.265179,0.978084,-478.607,213.216)">
-            <use xlink:href="#_Image1" x="1911.42" y="1593.48" width="588.661px" height="253.078px" transform="matrix(0.999425,0,0,0.996369,0,0)"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-23.2783,-222.173)">
-            <rect x="2366.03" y="1577.41" width="726.998" height="134.882" style="fill:white;fill-opacity:0.8;stroke:white;stroke-width:1.11px;"/>
-        </g>
-        <g transform="matrix(1.27361,0,0,1,-556.71,431.897)">
-            <text x="2336.58px" y="1018.88px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:79.167px;fill:rgb(209,55,18);">Demnächst!</text>
-        </g>
-    </g>
-    <g transform="matrix(0.76796,0.163479,-0.20821,0.978084,201.497,-1654.27)">
-        <g transform="matrix(1.2457,-0.20821,0.265179,0.978084,187.671,1659.97)">
-            <use xlink:href="#_Image1" x="1700.86" y="63.954" width="588.661px" height="253.078px" transform="matrix(0.999425,0,0,0.996369,0,0)"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-23.2783,-222.173)">
-            <rect x="2366.03" y="1577.41" width="726.998" height="134.882" style="fill:white;fill-opacity:0.8;stroke:white;stroke-width:1.11px;"/>
-        </g>
-        <g transform="matrix(1.27361,0,0,1,-556.71,431.897)">
-            <text x="2336.58px" y="1018.88px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:79.167px;fill:rgb(209,55,18);">Demnächst!</text>
-        </g>
-    </g>
-    <g transform="matrix(0.76796,0.163479,-0.20821,0.978084,-1223.01,87.1932)">
-        <g transform="matrix(1.2457,-0.20821,0.265179,0.978084,1500.39,-339.925)">
-            <use xlink:href="#_Image1" x="275.525" y="1811.76" width="588.661px" height="253.078px" transform="matrix(0.999425,0,0,0.996369,0,0)"/>
-        </g>
-        <g transform="matrix(1,0,0,1,-23.2783,-222.173)">
-            <rect x="2366.03" y="1577.41" width="726.998" height="134.882" style="fill:white;fill-opacity:0.8;stroke:white;stroke-width:1.11px;"/>
-        </g>
-        <g transform="matrix(1.27361,0,0,1,-556.71,431.897)">
-            <text x="2336.58px" y="1018.88px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:79.167px;fill:rgb(209,55,18);">Demnächst!</text>
+        <g transform="matrix(0.76796,0.163479,-0.20821,0.978084,-1223.01,87.1932)">
+            <g transform="matrix(1.2457,-0.20821,0.265179,0.978084,1597.38,-323.858)">
+                <use xlink:href="#_Image1" x="204.344" y="1780.08" width="588.661px" height="253.078px" transform="matrix(0.999425,0,0,0.996369,0,0)"/>
+            </g>
+            <g transform="matrix(1,0,0,1,-23.2783,-222.173)">
+                <rect x="2366.03" y="1577.41" width="726.998" height="134.882" style="fill:white;fill-opacity:0.8;stroke:white;stroke-width:1.11px;"/>
+            </g>
+            <g transform="matrix(1.27361,0,0,1,-556.71,431.897)">
+                <text x="2336.58px" y="1018.88px" style="font-family:'LucidaGrande', 'Lucida Grande', sans-serif;font-weight:500;font-size:79.167px;fill:rgb(209,55,18);">Demnächst!</text>
+            </g>
         </g>
     </g>
     <defs>
